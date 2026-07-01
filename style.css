@@ -1,7 +1,7 @@
 body{
     margin:0;
     font-family:Poppins,sans-serif;
-    background:linear-gradient(135deg,#ff4d6d,#ff85a2,#ffd6e0,#845ef7);
+    background:linear-gradient(135deg,#ffbb94,#fb9590,#dc586d,#a33757,#852e4e,#4c1d3d);
     background-size:400% 400%;
     animation:bg 12s ease infinite;
     display:flex;
